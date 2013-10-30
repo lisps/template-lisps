@@ -1,0 +1,7 @@
+base     lisps
+author   lisps
+email    
+date     2013-10-30
+name     Lisps DokuWiki Template
+desc     Lisps DokuWiki's modified default template
+url      http://www.dokuwiki.org/template:lisps

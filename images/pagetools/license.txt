@@ -1,0 +1,19 @@
+Icon set:   iPhone toolbar icons
+Designer:   TheWorkingGroup.ca
+License:    Creative Commons Attribution-Share Alike License [http://creativecommons.org/licenses/by-sa/3.0/]
+URL:        http://blog.twg.ca/2009/09/free-iphone-toolbar-icons/
+
+The following icons are added/changed by lisps (https://github.com/lisps) 
+and are under the same licence
+- 05_source.png
+- 13_exportpdf.png
+- 14_media.png
+- 15_recent.png
+- 16_index.png
+- 17_feedback.png
+- 18_login.png
+- 19_logout.png
+- 20_admin.png
+- 21_profile.png
+- 22_save.png
+
