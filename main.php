@@ -155,7 +155,7 @@ $showSidebar = $hasSidebar && ($ACT=='show');
 						?>
 						
 						<li onmouseup="window.print()">
-                            <a href="" class="action print"><span>Drucken</span></a><?php /* @todo: i18n */ ?>
+                            <a href="" class="action print"><span><?php echo tpl_getLang('btn_print'); ?></span></a>
                         </li>
 						
 						<?php
