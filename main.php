@@ -143,7 +143,7 @@ $showSidebar = $hasSidebar && ($ACT=='show');
 						<li><br><hr></li>
 						<?php if($INFO['writable'] && ($ACT === 'edit' || $ACT ==='preview') ):?>
 						<li onmouseup="jQuery('#edbtn__save').click();">
-                            <a href="#" class="action save"><span>Speichern</span></a>
+                            <a href="#" class="action save"><span><?php echo $lang['btn_save']; ?></span></a>
                         </li>
 						<li><br><hr></li>
 						<?php endif;?>
@@ -155,7 +155,7 @@ $showSidebar = $hasSidebar && ($ACT=='show');
 						?>
 						
 						<li onmouseup="window.print()">
-                            <a href="" class="action print"><span>Drucken</span></a>
+                            <a href="" class="action print"><span><?php echo tpl_getLang('btn_print'); ?></span></a>
                         </li>
 						
 						<?php
