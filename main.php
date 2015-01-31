@@ -122,7 +122,7 @@ $showSidebar = $hasSidebar && ($ACT=='show');
                 </div>
 				<!-- Display permalink -->
                 <div class="docInfo">
-					<?php echo '<a class="mainpermalink" href="' . $DOKU_BASE . "doku.php?id=" . $ID.'&rev='.($INFO['rev']?$INFO['rev']:$INFO['lastmod']) .' ">Permalink</a> ';?>
+					<?php echo '<a class="mainpermalink" href="' . DOKU_BASE . "doku.php?id=" . $ID.'&rev='.($INFO['rev']?$INFO['rev']:$INFO['lastmod']) .' ">Permalink</a> ';?>
 					<?php tpl_pageinfo() ?>
 				</div>
 
